@@ -4,8 +4,6 @@ TotalFreedom plugins are primarily derived from the Bukkit and CraftBukkit libra
 
 We do, however, ask that you comply by several restrictions. These restrictions are in place to make sure that credit is given to the original authors, who remain the maintainers of the plugin and its source code.
 
-The following applies to all TotalFreedom projects.
-
 ## General
 _(Applies to all projects)_
 * A un-edited copy of this LICENSE.md or a direct link to this page shall always be included with this source code.
@@ -21,6 +19,7 @@ _(Applies to all projects)_
 * Compiled binaries or derivisions of sources may not be distributed.
 * The official developers may choose to provide official binaries on a discretionary basis.
 * Any restrictions listed here may be waived by any of the official developers for that project.
+* We reserve the right to change this license at any time. The most recent version will in that case be in immediate effect.
 
 ## TotalFreedomMod specific
 * Official developers: StevenLawson (Madgeek1450) and Jerom van der Sar (DarthSalamon)
@@ -28,4 +27,4 @@ _(Applies to all projects)_
 * You may not modify the file _TFM_FrontDoor.java_. Removing it is fine, however.
 
 ## MobArena & DisguiseCraft specific
-* Official developers: xXWilee999Xx
+* Official developers: xXWilee999Xx (Wilee999)
