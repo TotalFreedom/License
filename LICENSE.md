@@ -26,5 +26,5 @@ _(Applies to all projects)_
 * You shall not edit or remove the file Command_tfm.java
 * You may not modify the file _TFM_FrontDoor.java_. Removing it is fine, however.
 
-## MobArena & DisguiseCraft specific
-* Official developers: xXWilee999Xx (Wilee999)
+## MobArena specific
+* Official developers: WickedGamingUK (HeXeRei452)
