@@ -14,7 +14,7 @@ _(Applies to all projects)_
   * "JeromSar"
   * "AcidicCyanide"
   * "wild1145"
-  * "xXWilee999Xx"
+  * "WickedGamingUK"
 * Compiled binaries may be available in the "Releases" tab of the Github project.
 * Compiled binaries or derivisions of sources may not be distributed.
 * The official developers may choose to provide official binaries on a discretionary basis.
