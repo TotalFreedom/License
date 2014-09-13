@@ -7,13 +7,13 @@ We do, however, ask that you comply by several restrictions. These restrictions 
 ## General
 _(Applies to all projects)_
 * A un-edited copy of this LICENSE.md or a direct link to this page shall always be included with this source code.
-* You may not remove the following keywords from any part of the source:
+* You may not remove any credits of any sort from the source of any project. These credits include but may not be limited to:
   * "Madgeek1450"
   * "StevenLawson"
   * "DarthSalamon"
   * "JeromSar"
   * "AcidicCyanide"
-  * "wild1145"
+  * "Wild1145"
   * "WickedGamingUK"
 * Compiled binaries may be available in the "Releases" tab of the Github project.
 * Compiled binaries or derivisions of sources may not be distributed.
