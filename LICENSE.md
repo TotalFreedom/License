@@ -10,7 +10,8 @@ _(Applies to all projects)_
 * You may not remove any credits of any sort from the source of any project. These credits include but may not be limited to:
   * "Madgeek1450"
   * "StevenLawson"
-  * "DarthSalamon"
+  * "DarthSalmon"
+  * "Prozza"
   * "JeromSar"
   * "AcidicCyanide"
   * "Wild1145"
