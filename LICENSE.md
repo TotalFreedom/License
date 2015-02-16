@@ -10,8 +10,8 @@ _(Applies to all projects)_
 * You may not remove any credits of any sort from the source of any project. These credits include but may not be limited to:
   * "Madgeek1450"
   * "StevenLawson"
-  * "DarthSalmon"
   * "Prozza"
+  * "DarthSalmon"
   * "JeromSar"
   * "AcidicCyanide"
   * "Wild1145"
@@ -23,7 +23,7 @@ _(Applies to all projects)_
 * We reserve the right to change this license at any time. The most recent version will in that case be in immediate effect.
 
 ## TotalFreedomMod specific
-* Official developers: StevenLawson (Madgeek1450) and Jerom van der Sar (DarthSalamon)
+* Official developers: StevenLawson (Madgeek1450) and Jerom van der Sar (Prozza)
 * You shall not edit or remove the file Command_tfm.java
 * You may not modify the file _TFM_FrontDoor.java_. Removing it is fine, however.
 
