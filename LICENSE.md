@@ -2,6 +2,8 @@
 
 TotalFreedom plugins are primarily derived from the Bukkit and CraftBukkit library and server, respectively. Therefore, we have chosen for it to inherit the GNU GPLv3 License as used by those programs. This license is available at [The GNU site](http://www.gnu.org/licenses/gpl-3.0.txt).
 
+As the GPLv3 does not allow any other restrictions, the following are therefore requests but cannot be considered restrictions under the license.
+
 We do, however, ask that you comply by several restrictions. These restrictions are in place to make sure that credit is given to the original authors, who remain the maintainers of the plugin and its source code.
 
 ## General
