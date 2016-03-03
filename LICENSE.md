@@ -1,9 +1,9 @@
 # TotalFreedom General License #
 _Version 2.0, 27th February 2015_
 
-Copyright (c) 2011-2015, Steven Lawson
+Copyright (c) 2011 Steven Lawson
 
-Copyright (c) 2012-2015, Jerom van der Sar
+Copyright (c) 2012 Jerom van der Sar
 
 All rights reserved.
 
